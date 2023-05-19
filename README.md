@@ -22,7 +22,7 @@ Export Inventory: Users can export the inventory data to a file for further anal
 Getting Started
 To get started with the inventory system, follow these steps:
 
-1.Clone the repository: git clone https://github.com/your-username/shoe-inventory.git Install the required dependencies. The system uses Python, so ensure you have it installed on your machine.
+1.Clone the repository: git clone https://github.com/philly04/shoe-inventory.git Install the required dependencies. The system uses Python, so ensure you have it installed on your machine.
 
 2.Run the inventory.py file: python inventory.py
 
